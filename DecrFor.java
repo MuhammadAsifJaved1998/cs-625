@@ -1,7 +1,8 @@
-public class Comma {
+public class DecrFor {
 public static void main(String [] args) {
-int i, j;
-for(i=0; j=10; i< j; i++; j--)
-System.out.println("i and j: " + i + " " + j);
+int x;
+for(count=10; count < 5; count++)
+System.out.println(x);
+x +=count;
 }
 }
